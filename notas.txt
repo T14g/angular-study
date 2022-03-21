@@ -1,0 +1,4 @@
+Angular usa directiver ( ngModel ) por exemplo para fazer bind do valor de un input numa variavel
+- É necessário importar importar uma feature no app module no caso a do form para usar o ngModel
+
+Data binding mantem uma conexão entre a UI e a lógica de negócio
